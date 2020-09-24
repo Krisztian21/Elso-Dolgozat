@@ -1,0 +1,17 @@
+body{
+    background-image: linear-gradient(to bottom right, red, orange, yellow, orange, red);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+table, th, td {
+    border: 2px solid rgba(128, 0, 128, 0.774);
+    background-color:rgba(0, 255, 0, 0.589);
+    margin: auto;
+}
+div{
+        border-radius: 25px;
+        background: url(paper.gif);
+        padding: 20px;
+        width: 200px;
+        height: 260px;
+}
