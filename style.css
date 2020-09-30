@@ -2,6 +2,7 @@ body{
     background-image: linear-gradient(to bottom right, red, orange, yellow, orange, red);
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-position: center;
 }
 table, th, td {
     border: 2px solid rgba(128, 0, 128, 0.774);
@@ -13,5 +14,5 @@ div{
         background: url(paper.gif);
         padding: 20px;
         width: 200px;
-        height: 260px;
+        height: 300px;
 }
